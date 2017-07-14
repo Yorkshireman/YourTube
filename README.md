@@ -1,0 +1,1 @@
+`react-native run-ios` and `react-native run-android` (after starting a simulator from Android Studio)
